@@ -1,6 +1,7 @@
 <?php
 
-$url = 'http://localhost/www/google-sitemap/sitemap-generator.php';
+//$url = 'http://localhost/www/google-sitemap/sitemap-generator.php';
+$url = 'http://localhost/www/google-sitemap/basic-sitemap-generator.php';
 
 $file = file_get_contents($url);
 
