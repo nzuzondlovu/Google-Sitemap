@@ -1,0 +1,149 @@
+
+	<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+		<url> 
+			<loc>http://www.example.com/video/1/Dogs-playing-poker/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_001.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=1
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/001.jpg
+				</video:thumbnail_loc>
+				<video:title>Dogs playing poker</video:title>  
+				<video:description>
+					Two smart dogs start playing poker at the casino
+				</video:description>
+			</video:video>
+		</url>
+		<url> 
+			<loc>http://www.example.com/video/2/Grilling-steaks-for-summer/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_002.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=2
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/002.jpg
+				</video:thumbnail_loc>
+				<video:title>Grilling steaks for summer</video:title>  
+				<video:description>
+					Cook the perfect steak every time.
+				</video:description>
+			</video:video>
+		</url>
+		<url> 
+			<loc>http://www.example.com/video/3/Cats-by-the-window/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_003.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=3
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/003.jpg
+				</video:thumbnail_loc>
+				<video:title>Cats by the window</video:title>  
+				<video:description>
+					Lovely cats watching the day go by through the window
+				</video:description>
+			</video:video>
+		</url>
+		<url> 
+			<loc>http://www.example.com/video/4/Birds-in-the-park/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_004.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=4
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/004.jpg
+				</video:thumbnail_loc>
+				<video:title>Birds in the park</video:title>  
+				<video:description>
+					Birds chirping on a big tree in the middle of the park
+				</video:description>
+			</video:video>
+		</url>
+		<url> 
+			<loc>http://www.example.com/video/5/Pigs-in-the-mud/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_005.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=5
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/005.jpg
+				</video:thumbnail_loc>
+				<video:title>Pigs in the mud</video:title>  
+				<video:description>
+					3 little pink piglets playing in the mud
+				</video:description>
+			</video:video>
+		</url>
+		<url> 
+			<loc>http://www.example.com/video/6/Duck-in-a-pond/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_006.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=6
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/006.jpg
+				</video:thumbnail_loc>
+				<video:title>Duck in a pond</video:title>  
+				<video:description>
+					Its a hot summers day, the ducks are having fun in water
+				</video:description>
+			</video:video>
+		</url>
+		<url> 
+			<loc>http://www.example.com/video/7/Monkeys-in-town/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_007.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=7
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/007.jpg
+				</video:thumbnail_loc>
+				<video:title>Monkeys in town</video:title>  
+				<video:description>
+					Naughty monkeys jumping from roof to roof
+				</video:description>
+			</video:video>
+		</url>
+		<url> 
+			<loc>http://www.example.com/video/8/Lions-in-the-Zoo/</loc>
+			<video:video>
+				<video:content_loc>
+					http://www.example.com/video_008.mp4
+				</video:content_loc>
+					<video:player_loc allow_embed="yes" autoplay="ap=1">
+					http://www.example.com/videoplayer.swf?video=8
+				</video:player_loc>
+				<video:thumbnail_loc>
+					http://www.example.com/thumbs/008.jpg
+				</video:thumbnail_loc>
+				<video:title>Lions in the Zoo</video:title>  
+				<video:description>
+					Lions are huge and they are lazy during the day
+				</video:description>
+			</video:video>
+		</url>
+	</urlset>
